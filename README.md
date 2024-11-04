@@ -3,4 +3,4 @@ You will need to have pygame installed but if you don't paste this in the termin
 
 terminal->pip install pygame
 
-Enjoy the game.
+Enjoy the game and practice, Good Luck.
